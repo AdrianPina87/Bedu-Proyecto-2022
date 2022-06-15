@@ -1,5 +1,6 @@
 body {
     background-color: #fffbf7;
+    font-family: 'Fascinate Inline', cursive;
 }
 
 h1 {
@@ -24,7 +25,7 @@ button {
     margin-left: 20px;
     margin-right: 20px; */
     font-size: 0;
-    font-family: sans-serif;
+    font-family: 'Fascinate Inline', cursive;
   }
 
 li {
@@ -58,6 +59,7 @@ li {
     width: 15%;
     text-align: left;
     font-size: 14px;
+    font-family: 'Fascinate Inline', cursive;
 }
 
 .actions > * {
